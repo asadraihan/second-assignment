@@ -1,0 +1,81 @@
+.container{
+    margin-bottom: 100px;
+}
+.logo{
+    heaight: 100px;
+    width: 150px;}
+.books{
+    margin-bottom: 100px;}
+.top-button, .get-started-button, .buy-course-button{
+    border: none;
+    background-color: green;
+    border-radius: 20px;
+    color: white;
+    padding: 3px 10px;}
+.half-width img{
+    width: 100%;}
+.bg-lightgreen{
+    background-color: lightcyan;
+    padding-bottom: 50px;}
+.icon img{
+    height: 100px;
+    width: 100px;
+    margin-bottom: 30px;}
+.courses-buy, .blog, .e-courses{
+    margin-top: 100px;
+}    
+   
+.icon {
+        border: none;
+        border-radius: 10px;
+        background-color: lightsteelblue;
+        margin: 30px;
+        padding: 50px 0px;
+        height: 300px;
+        width: auto;
+        margin-top: 50px;}
+.card img{padding: 20px;}
+.card-text img{
+    height: 60px;
+    width: 60px;}
+.online-courses{
+    margin-left: 150px;
+    margin-right: 150px;
+    border: none;
+    border-radius: 20px;
+}
+.man img{
+    height: 200px;
+    width: 200px;}
+   
+.paragrap{
+    margin-left:100px;
+}
+ul {
+    list-style-type: none;
+  }
+
+.last-part{
+    margin-top: 100px;
+    background-color:  #292525;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.bg-black{
+    background-color: #292525;
+    color: white;
+}
+.green-bg{
+    background-image: linear-gradient(45deg, lightcyan, lightgreen);
+    border-radius: 15px;
+    padding: 30px 0px;
+    margin-top: 100px;
+}
+.latest-courses{
+    background-image: linear-gradient(45deg, #d9ebd1, goldenrod);
+    border: none;
+    border-radius: 15px;
+    margin: 15px;
+    padding: 10px;
+}
